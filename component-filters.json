@@ -15,7 +15,8 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "quote"
     ]
   },
   {
@@ -39,18 +40,4 @@
       "title"
     ]
   }
-{
-  "id": "section",
-  "components": [
-    "text",
-    "image",
-    "button",
-    "title",
-    "hero",
-    "cards",
-    "columns",
-    "quote"
-   ]
-}
-
 ]
