@@ -12,9 +12,9 @@ function getOptions(block) {
 }
 
 /**
- * Adds a zoom effect to the image using event listeners.
+ * Adds a zoom effect to the image using event listeners
  *
- * When the CTA button is hovered over, the image zooms in.
+ * When the CTA button is hovered over, the image zooms in
  *
  * @param {HTMLElement} block represents the block's DOM tree
  */
